@@ -34,5 +34,4 @@ To start, I know I will need to learn JavaScript and how to setup my own server 
 
 ### Project Tracker
 Link to your Trello board here
-
-https://trello.com/invite/b/2sWBRs9t/139205f40421ead7029b0dceb0a23a41/no-good-name-yet
+https://trello.com/invite/b/fqUQmzZu/dab02fb97f1b4b39117b220e9999b3a0/beatin-betes
