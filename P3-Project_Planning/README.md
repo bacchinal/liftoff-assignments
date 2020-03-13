@@ -22,4 +22,4 @@ https://trello.com/louiscoffman/boards
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/bacchinal/beatinbetes.git
