@@ -22,4 +22,4 @@ https://trello.com/louiscoffman/boards
 
 ### Project Repo Link
 
-https://github.com/bacchinal/beatinbetes.git
+https://github.com/bacchinal/beatin-betes.git
